@@ -5,7 +5,7 @@
         <title>CPS-530 Content</title>
         <script type="text/javascript">
 		var pw =prompt('Please Enter a Password to View Protected Content: ','');
- 			if (pw != 'sid') top.location = 'index.html';</script>
+ 			if (pw != 'XYZ') top.location = 'index.html';</script>
     </head>
     <body style= "background-color: black">
        <h2 style="color: aqua; text-align: center"> Hey, What's up bro!</h2>
